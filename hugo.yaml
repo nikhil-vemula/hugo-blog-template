@@ -1,6 +1,6 @@
-baseURL: https://example.org/
+baseURL: https://git_user_name.github.io/
 languageCode: en-us
-title: My Site
+title: My blog
 theme: PaperMod
 
 enableRobotsTXT: true
